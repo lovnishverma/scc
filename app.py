@@ -2,7 +2,7 @@ import streamlit as st
 # Streamlit application example
 
 # Title
-st.title("Hello, World!")
+st.title("Hello, AIML!")
 
 # Simple text
 st.write("Welcome to your first Streamlit app.")
